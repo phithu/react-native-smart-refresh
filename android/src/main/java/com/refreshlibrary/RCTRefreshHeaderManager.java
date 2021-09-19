@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.refreshlibrary;
 
 import androidx.annotation.NonNull;
 
